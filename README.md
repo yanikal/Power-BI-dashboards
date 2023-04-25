@@ -72,9 +72,9 @@ On the basis of this available data I was asked following questions by Stake Hol
 ## Dashboard | Power BI
 
 ### 1. Desktop View
-<img src="https://github.com/yanikal/Power-BI-dashboards/Dashboard Screenshot.png" width="1200" height="600">
+<img src="https://github.com/yanikal/Power-BI-dashboards/blob/main/Dashboard%20Screenshots.png" width="1200" height="600">
 
 ### 2. Mobile View
-<img src = "https://github.com/yanikal/Power-BI-dashboards/Mobile View 1(1).jpg" width="500" height="750">
+<img src = "https://github.com/yanikal/Power-BI-dashboards/blob/main/Mobile%20View%201%20(1).jpg" width="500" height="750">
 
 
